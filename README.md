@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a student at Mount Allison University. 
+I'm taking a BSc Computer Science and Cognitive Science at Mount Allison University. 
+I'm interested in the intersection of technology and social change. 
+Part of the 2023 AI4Good cohort, worked on increasing interpretatbility of AI models.
+
+
 <!--
 **Matya-Stavnitzky/Matya-Stavnitzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
