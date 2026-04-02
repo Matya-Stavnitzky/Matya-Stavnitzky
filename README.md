@@ -2,7 +2,7 @@
 
 I'm taking a BSc Computer Science and Cognitive Science at Mount Allison University. 
 I'm interested in the intersection of technology and social change. 
-Part of the 2023 AI4Good cohort, worked on increasing interpretatbility of AI models.
+Part of the 2023 AI4Good cohort, worked on increasing interpretability of AI models.
 
 
 <!--
